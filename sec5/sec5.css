@@ -11,16 +11,22 @@ h1 {
   font-family: "Architects Daughter", cursive;
   font-size: 5rem;
   padding-top: 50px;
+  color: #274242;
 }
 h2 {
   font-family: "Indie Flower", cursive;
   font-size: 2.5rem;
+  color: #2a2d16;
 }
 h3 {
   font-family: "Scheherazade New", serif;
 }
+.pro {
+  font-weight: normal;
+  line-height: 2;
+}
 .top-container {
-  background-color: paleturquoise;
+  background-color: rgb(137, 249, 249);
   position: relative;
   padding-top: 100px;
 }
@@ -42,7 +48,7 @@ h3 {
 }
 
 .middle-container {
-  background-color: rgb(252, 179, 252);
+  background-color: steelblue;
 }
 
 .bottom-container {
