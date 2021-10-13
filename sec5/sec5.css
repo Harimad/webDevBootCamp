@@ -5,8 +5,14 @@
 
 body {
   text-align: center;
+  font-family: "Scheherazade New", serif;
 }
-
+h1 {
+  font-family: "Architects Daughter", cursive;
+}
+h2 {
+  font-family: "Indie Flower", cursive;
+}
 .top-container {
   background-color: paleturquoise;
   position: relative;
